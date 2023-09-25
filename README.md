@@ -1,8 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# *LA Hacks* Dashboard Project by Anastasia Marinopoulos
 
-## Getting Started
+I was asked to develop this site as a 2nd interview type of project by the *LA Hacks* interview committee.
 
-First, run the development server:
+I was asked to use four components to build this dashboard.  They include
+
+[React](https://react.dev/)
+[NextJs](https://nextjs.org/)
+[Tailwind CSS](https://tailwindcss.com/) and
+[Firebase by Google](https://firebase.google.com/).
+
+I managed to use React, NextJS and Tailwind.  I would have used Firebase for authentication and backend storage, but I simply ran out of time.  However, instead of using Cloud Firestore for storage, I simulated its use by reading data stored in JSON files which are read in dynamically when the page is rendered.
+
+## Call Outs
+
+* I used the new LLM model by Vercel located at [v0.dev](https://v0.dev) to help create the initial site template.
+
+* I am using the latest version version of NextJS, which uses server generated page building and is great for SEO.
+
+* `/schedule` and `/teams` are drivien by `JSON` files stored in the `/json` directory.  To  switch to a database I would simply `fecth()` the equivalent `JSON` blobs from the appropriate endpoints.
+
+* I am using [font-awesome](https://fontawesome.com/) for the icon in the nav bar.
+
+
+
+
+
+
+
+
+
+
+
+## To run the development server
 
 ```bash
 npm run dev
@@ -18,17 +47,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

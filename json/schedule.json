@@ -1,0 +1,91 @@
+[
+	{"start": "11:00",
+	"end": "11:59",
+	"event": "Check-In",
+	"location": "Lobby",
+	"desc":"Come to the Juniper Dome and sign in!"},
+
+	{"start": "12:00",
+	"end": "12:30",
+	"event": "Opening Ceremony",
+	"location": "Main Stage",
+	"desc":"Introduction to the whole process"},
+
+	{"start": "12:30",
+	"end": "1",
+	"event": "Kick-Off",
+	"location": "Hacker Area",
+	"desc": "Get ready to start coding!"},
+
+	{"start": "13:00",
+	"end": "14:00",
+	"event": "Lunch",
+	"location": "Food Stations",
+	"desc": "Get lunch from our caterers"},
+
+	{"start": "14:00",
+	"end": "14:30",
+	"event": "Meet-n-Greet",
+	"location": "Workshop Area",
+	"desc": "Come and meet our judges!"},
+
+	{"start": "18:30",
+	"end": "20:30",
+	"event": "Dinner",
+	"location": "Food Stations",
+	"desc": "Get dinner from our caterers"},
+
+	{"start": "21:00",
+	"end": "22:30",
+	"event": "Robotics Clash",
+	"location": "Workshop Area",
+	"desc": "Bring your robots and have them compete in challenges to determine who has the ultimate robot!"},
+
+	{"start": "00:00",
+	"end": "01:00",
+	"event": "Midnight Event",
+	"location": "Workshop Area",
+	"desc": "Who knows..."},
+
+	{"start": "01:30",
+	"end": "02:30",
+	"event": "Super Smash Bros Tournament",
+	"location": "Workshop Area",
+	"desc": "Get ready to battle it out in Smash Bros!"},
+
+	{"start": "07:30",
+	"end": "07:30",
+	"event": "End of Hacking",
+	"location": "Main Stage",
+	"desc": "Time is up!  Make sure to submit your projects"},
+
+	{"start": "08:00",
+	"end": "09:00",
+	"event": "Breakfast",
+	"location": "Food Stations",
+	"desc": "Get breakfast from our caterers"},
+
+	{"start": "09:30",
+	"end": "10:30",
+	"event": "Judging",
+	"location": "Main Stage",
+	"desc": "Make sure to check out the judges opinions on your projects!"},
+
+	{"start": "11:00",
+	"end": "11:30",
+	"event": "Prizes",
+	"location": "Main Stage",
+	"desc": "If you have won an award, head on up and get your prize."},
+
+	{"start": "11:30",
+	"end": "12:00",
+	"event": "Closing Statements",
+	"location": "Main Stage",
+	"desc": "And with that, the Hackathon comes to a close!"},
+
+	{"start": "12:30",
+	"end": "12:30",
+	"event": "Hackathon is over",
+	"location": "Outside",
+	"desc": "Hackathon is over and all contestents must exit the Juniper Dome."}
+]

@@ -1,0 +1,106 @@
+[
+	{
+		"teamName": "team1",
+		"projDesc": "Making a nail polish identifyer",
+		"teamMembers": [
+			{
+				"member": "Joe Schmoe",
+				"school": "Paly",
+				"email": "js@paly.net"
+			},
+			{
+				"member": "Happy Sal",
+				"school": "Gunn",
+				"email": "hs@gunn.net"
+			},
+			{
+				"member": "John Smith",
+				"school": "Los Altos",
+				"email": "js@mvla.net"
+			},
+			{
+				"member": "Jane Doe",
+				"school": "Mountain View",
+				"email": "jd@mvla.net"
+			}
+		]
+	},
+	{
+		"teamName": "team2",
+		"projDesc": "Creating an AI that can 3D print a perfect model of someone's head",
+		"teamMembers": [
+			{
+				"member": "Chris Evans",
+				"school": "Homestead",
+				"email": "ce@hmsd.net"
+			},
+			{
+				"member": "Robert Downey Jr.",
+				"school": "Saint Francis",
+				"email": "rdj@sfhs.net"
+			},
+			{
+				"member": "Eleanor Shellstrop",
+				"school": "Los Altos",
+				"email": "es@mvla.net"
+			},
+			{
+				"member": "Morgan Hentz",
+				"school": "Cupertino",
+				"email": "mh@tino.net"
+			}
+		]
+	},
+	{
+		"teamName": "team3",
+		"projDesc": "Creating an app that can report the exact measurements of a given object",
+		"teamMembers": [
+			{
+				"member": "Will Rottman",
+				"school": "Mountain View",
+				"email": "wr@mvla.net"
+			},
+			{
+				"member": "Steven Spielberg",
+				"school": "Terra Nova",
+				"email": "ss@tnhs.net"
+			},
+			{
+				"member": "Tahani Al-Jamil",
+				"school": "Archbishop Mitty",
+				"email": "taj@mitty.net"
+			},
+			{
+				"member": "Isis Gaston",
+				"school": "Half-Moon Bay",
+				"email": "ig@hmb.net"
+			}
+		]
+	},
+	{
+		"teamName": "team4",
+		"projDesc": "Giving the user the optimum pillow to fit their needs",
+		"teamMembers": [
+			{
+				"member": "Elijah Snow",
+				"school": "Paly",
+				"email": "es@paly.net"
+			},
+			{
+				"member": "Tony DiNozzo",
+				"school": "Los Altos",
+				"email": "td@mvla.net"
+			},
+			{
+				"member": "Augie Steenbeck",
+				"school": "Freestyle Academy",
+				"email": "as@mvla.net"
+			},
+			{
+				"member": "Blaise Zabini",
+				"school": "Mountain View Academy",
+				"email": "bz@mvhs.net"
+			}
+		]
+	}
+]

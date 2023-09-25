@@ -1,0 +1,74 @@
+[
+  {
+    "day": 0,
+    "start": "15: 00",
+    "end": "15: 59",
+    "name": "Sign In & Registration",
+    "location": "Cafeteria",
+    "url": "http: //lahshacks.com/registration",
+    "comment": "Show up early and often to make sure your team is properly registered."
+  },
+  {
+    "day": 0,
+    "start": "16: 00",
+    "end": "16: 29",
+    "name": "Kick Off",
+    "location": "Main Auditorium",
+    "url": "http: //lahshacks.com/kickoff",
+    "comment": "Meet the team behind LAHS Hacks and learn about the days/nights activities."
+  },
+  {
+    "day": 0,
+    "start": "16: 30",
+    "end": "18: 29",
+    "name": "Hack Session 1",
+    "location": "",
+    "url": "http: //lahshacks.com/hackerarea",
+    "comment": "Ready, Set, GO! Start pumping out your leet code!"
+  },
+  {
+    "day": 0,
+    "start": "18: 30",
+    "end": "19: 29",
+    "name": "Dinner",
+    "location": "Cafeteria",
+    "url": "http: //lahshacks.com/food",
+    "comment": "Time to recharge your mitochondrion."
+  },
+  {
+    "day": 0,
+    "start": "19: 30",
+    "end": "20: 14",
+    "name": "SpikeBall",
+    "location": "Courtyard",
+    "url": "http: //lahshacks.com/",
+    "comment": "Blow of some steam and meet the other teams in a death match of SpikeBall."
+  },
+  {
+    "day": 0,
+    "start": "",
+    "end": "",
+    "name": "",
+    "location": "",
+    "url": "http: //lahshacks.com/",
+    "comment": ""
+  },
+  {
+    "day": 0,
+    "start": "",
+    "end": "",
+    "name": "",
+    "location": "",
+    "url": "http: //lahshacks.com/",
+    "comment": ""
+  },
+  {
+    "day": 0,
+    "start": "",
+    "end": "",
+    "name": "",
+    "location": "",
+    "url": "http: //lahshacks.com/",
+    "comment": ""
+  }
+]
